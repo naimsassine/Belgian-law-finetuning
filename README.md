@@ -20,6 +20,8 @@ cd Belgian-law-finetuning
 
 The main script for fine-tuning the model can be found in the `notebooks` directory. To start fine-tuning, simply run the Jupyter Notebook provided.
 
+For more help, you can visit my medium page where I wrote a more detailed/commented approach on the topic [here](https://medium.com/@naimsassine)
+
 ## Acknowledgements
 
 This project would not have been possible without the help and resources from the following sources:
