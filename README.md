@@ -14,7 +14,6 @@ To use this project, clone the repository and install the necessary dependencies
 ```bash
 git clone https://github.com/naimsassine/Belgian-law-finetuning.git
 cd Belgian-law-finetuning
-pip install -r requirements.txt
 ```
 
 ## Usage
